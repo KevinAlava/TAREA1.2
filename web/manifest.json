@@ -1,6 +1,6 @@
 {
-    "name": "login_usuario",
-    "short_name": "login_usuario",
+    "name": "taller2_asientos",
+    "short_name": "taller2_asientos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
